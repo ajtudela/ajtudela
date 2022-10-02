@@ -10,3 +10,8 @@ With a passion for robotics, my line of research focuses on developing perceptiv
 
 ## Statistics 🧐
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ajtudela)](https://github.com/LordDashMe/github-contribution-stats/)
+
+## Where to find me
+<div align=center>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/ajtudela)](http://linkedin.com/in/ajtudela) [![GitLab Badge](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=GitLab&logoColor=white&link=http://gitlab.com/ajtudela)](http://gitlab.com/ajtudela) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Alberto-Tudela-2)](https://www.researchgate.net/profile/Alberto-Tudela-2)
