@@ -9,7 +9,7 @@ I'm also a ROS2 contributor, mainly in the Nav2 stack. You can find some of my c
 In my free time, I develop open source software for smart environments using Home Assistant, aiming to create seamless and intelligent systems that enhance the interaction between humans and their surroundings.
 
 ## Statistics 🧐
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ajtudela)](https://github.com/LordDashMe/github-contribution-stats/)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ajtudela&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=ajtudela&show_icons=true&include_all_commits=true)
 
 ## Where to find me
 <div align=center>
