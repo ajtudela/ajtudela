@@ -1,6 +1,6 @@
 # Hey there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>!
 
-I'm **Alberto Tudela**, a robotics researcher from Spain currently working in the Department of Electronic Technology (DTE) at the [Universidad de Málaga](https://www.uma.es/).
+I'm **Alberto Tudela**, a robotics researcher from Spain currently working in the [WASP Research Group](https://www.uma.es/avispa) (DTE) at the [Universidad de Málaga](https://www.uma.es/).
 
 My passion for robotics has led me to work across a wide range of the autonomy stack, with a particular focus on the creation of social navigation algorithms. These are carefully integrated into the cognitive architectures of social assistive robots. Additionally, I am actively involved in the development of perceptive agents that can accurately monitor and analyze the state of the world.
 
